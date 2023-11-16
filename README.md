@@ -1,5 +1,7 @@
 # Triangular Arbitrage Bot for OKX
 
+**PLEASE NOTE THAT THIS CODE IS UNDER CONSTRUCTION AND DOES NOT CURRENTLY FUNCTION!**
+
 ## Overview
 This Node.js-based bot is designed to execute a triangular arbitrage strategy on the OKX cryptocurrency exchange. Triangular arbitrage is a trading strategy that takes advantage of price discrepancies between three different currencies in the same market. In this bot, the strategy involves trading sequences like BTC to ETH, ETH to USDT, and USDT back to BTC, aiming to exploit inefficiencies in the market prices of these currency pairs. This was built as an educational excercise utilizing the PENDAX SDK from Compendium.
 
